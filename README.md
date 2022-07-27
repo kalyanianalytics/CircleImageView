@@ -17,14 +17,14 @@ Gradle
 ```
 dependencies {
     ...
-    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.kalyanianalytics:circleimageview:3.1.0'
 }
 ```
 
 Usage
 -----
 ```xml
-<de.hdodenhof.circleimageview.CircleImageView
+<com.kalyanianalytics.circleimageview.CircleImageView
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/profile_image"
     android:layout_width="96dp"
